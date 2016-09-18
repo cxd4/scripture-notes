@@ -1,0 +1,11 @@
+table, tr, td {
+    border-width:  1px;
+    border-style:  solid;
+}
+p, li {
+    white-space :  pre-wrap;
+}
+
+td.n { /* numeric data */
+    text-align  :  right;
+}
