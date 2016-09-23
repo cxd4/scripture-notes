@@ -9,3 +9,6 @@ p, li {
 td.n { /* numeric data */
     text-align  :  right;
 }
+td.t { /* titular data */
+    text-align  :  center;
+}
