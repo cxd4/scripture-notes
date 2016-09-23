@@ -1,6 +1,6 @@
 table, tr, td {
     border-width:  1px;
-    border-style:  solid;
+    border-style:  outset;
 }
 p, li {
     white-space :  pre-wrap;
